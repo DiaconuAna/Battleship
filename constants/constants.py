@@ -1,0 +1,8 @@
+WIDTH, HEIGHT = 800, 800
+ROWS, COLS = 10, 10
+
+SQUARE_SIZE = WIDTH // ROWS
+
+RED = (255, 0, 0)
+BLUE = (0, 0, 255)
+BLACK = (0, 0, 0)
